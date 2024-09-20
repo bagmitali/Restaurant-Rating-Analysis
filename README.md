@@ -34,21 +34,25 @@
 
 -------
 # Key Insights:-
-## 1. Customer Demographics:
+## 1. Customer Demographics:  [Click Here](https://github.com/bagmitali/Restaurant-Rating-Analysis/blob/main/Consumer_Demographics.sql)
 - 62% of customers are from "San Luis Potosi" State
 - 80% of our customers are in the age bucket of 18-25.
 - 70% of customers have a medium budget & 0.4% of customers have a high budget.
 - Mexican, American, Cafeteria, Pizzeria, and Coffee Shop are the most preferred cuisines.
 
-## 2. Restaurant Details:
+## 2. Restaurant Details: [Click Here](https://github.com/bagmitali/Restaurant-Rating-Analysis/blob/main/Consumer_Demographics.sql)
 - The majority of the restaurants are in "San Luis Potosi" State
 - Most restaurants offer cuisines like Mexican, Bar, Cafeteria, Fast Food, Brewery, Seafood, and Burgers.
 - 18% of restaurants are of High budget, 49% of them are of Medium budget & 33% are low budget.
 
-## 3. Ratings Analysis:
+## 3. Ratings Analysis: [Click Here](https://github.com/bagmitali/Restaurant-Rating-Analysis/blob/main/Rating.sql)
 - Average overall rating is 1.2
 - Top 3 Restaurants - Tortas Locas Hipocampo, Puesto de Gorditas, Cafeteria Y Restaurant El Pacifico
 - Cafeteria Y Restaurant El Pacifico provides the highest variety of the cuisine
+
+
+## Dashboard :-
+[Click Here](https://github.com/bagmitali/Restaurant-Rating-Analysis/blob/main/Restaurant%20Rating.pbix)
 
 
 
