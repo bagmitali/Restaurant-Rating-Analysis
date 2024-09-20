@@ -38,7 +38,7 @@
 - 62% of customers are from "San Luis Potosi" State
 - 80% of our customers are in the age bucket of 18-25.
 - 70% of customers have a medium budget & 0.4% of customers have a high budget.
-- - Mexican, American, Cafeteria, Pizzeria, and Coffee Shop are the most preferred cuisines.
+- Mexican, American, Cafeteria, Pizzeria, and Coffee Shop are the most preferred cuisines.
 
 ## 2. Restaurant Details:
 - The majority of the restaurants are in "San Luis Potosi" State
